@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1097104036904",
+    "firebase_url": "https://signin-f4927.firebaseio.com",
+    "project_id": "signin-f4927",
+    "storage_bucket": "signin-f4927.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097104036904:android:0f4f37530212b6ab",
+        "android_client_info": {
+          "package_name": "com.myapp.googlesignin.google_sign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097104036904-69a19jtkpbee8gu4shscosv0htq1u64q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbZQCe1rEAVtoXLDyVM4j4DOISOJuhaJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097104036904-69a19jtkpbee8gu4shscosv0htq1u64q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
